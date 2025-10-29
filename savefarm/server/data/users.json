@@ -1,0 +1,19 @@
+{
+  "users": {
+    "MOMIT": {
+      "passwordHash": "e37c74fa83d4a99b422c1d32d659f46e69570f0618c6770c8c097ac17fd20485",
+      "animals": {
+        "chicken": 1
+      },
+      "createdAt": "2025-10-29T14:24:36.322Z"
+    },
+    "Momit": {
+      "passwordHash": "34aaf0f0ba82d2565476e074698594417fb1bc25cfe888b55bfed07363bef50e",
+      "animals": {
+        "chicken": 1.5
+      },
+      "createdAt": "2025-10-29T14:30:36.233Z",
+      "nutritionLogs": {}
+    }
+  }
+}

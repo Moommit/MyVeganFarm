@@ -1,0 +1,8 @@
+{
+  "animals": {
+    "cow": 1.8,
+    "chicken": 1.6,
+    "pig": 3,
+    "fish": 1.5
+  }
+}
